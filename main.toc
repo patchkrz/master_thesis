@@ -1,0 +1,32 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{ABSTRACT}{I}{}%
+\contentsline {chapter}{Contents}{II}{}%
+\contentsline {chapter}{List of Tables}{III}{}%
+\contentsline {chapter}{List of Figures}{IV}{}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{}%
+\contentsline {chapter}{\numberline {2}THEORY}{3}{}%
+\contentsline {section}{\numberline {2.1}Maxwell's Equations}{3}{}%
+\contentsline {section}{\numberline {2.2}Transversal Field's Eigenvalue Equation}{4}{}%
+\contentsline {section}{\numberline {2.3}Electro-Optic Phenomena}{5}{}%
+\contentsline {subsection}{\numberline {2.3.1}Nonlinear Polarization and Index Contraction}{5}{}%
+\contentsline {subsubsection}{Index Contraction}{7}{}%
+\contentsline {subsection}{\numberline {2.3.2}Linear Electro-Optic Effect and Index Ellipsoid}{8}{}%
+\contentsline {section}{\numberline {2.4}Optical Waveguide}{11}{}%
+\contentsline {section}{\numberline {2.5}Coplanar Waveguide}{13}{}%
+\contentsline {section}{\numberline {2.6}Mach Zehnder Electrooptic Modulator Types}{15}{}%
+\contentsline {section}{\numberline {2.7}Electro-Optic Modulator Figure of Merits (FoM)}{17}{}%
+\contentsline {subsection}{\numberline {2.7.1}Half-Wave Voltage ($V_\pi $)}{17}{}%
+\contentsline {subsection}{\numberline {2.7.2}Modulation Bandwidth}{19}{}%
+\contentsline {subsubsection}{Velocity Matching}{21}{}%
+\contentsline {subsubsection}{Impedance Matching}{21}{}%
+\contentsline {subsubsection}{Microwave Losses}{21}{}%
+\contentsline {subsection}{\numberline {2.7.3}Insertion Loss}{22}{}%
+\contentsline {subsection}{\numberline {2.7.4}Extinction Ratio}{22}{}%
+\contentsline {chapter}{\numberline {3}METHODS AND RESULTS}{23}{}%
+\contentsline {subsubsection}{Verification of Simulation}{23}{}%
+\contentsline {subsubsection}{Experimentally Verified $V_\pi $}{25}{}%
+\contentsline {subsubsection}{Parametric Sweep In X-cut Modulator - $V_\pi L $ And Top $SiO_2$ Layer Dependence}{26}{}%
+\contentsline {subsubsection}{Parametric Sweep In X-cut Modulator - $V_\pi L $ And Coplanar Waveguide Gap Dependence}{27}{}%
+\contentsline {subsubsection}{Parametric Sweep In Z-cut Modulator - $V_\pi L$ And Top $SiO_2$ Layer Dependence}{28}{}%
+\contentsline {chapter}{\numberline {4}DISCUSSION}{30}{}%
+\contentsline {subsection}{\numberline {4.0.1}Future Work}{31}{}%
