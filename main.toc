@@ -1,32 +1,34 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{ABSTRACT}{I}{}%
 \contentsline {chapter}{Contents}{II}{}%
-\contentsline {chapter}{List of Tables}{III}{}%
-\contentsline {chapter}{List of Figures}{IV}{}%
+\contentsline {chapter}{List of Tables}{IV}{}%
+\contentsline {chapter}{List of Figures}{V}{}%
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{}%
-\contentsline {chapter}{\numberline {2}THEORY}{3}{}%
-\contentsline {section}{\numberline {2.1}Maxwell's Equations}{3}{}%
-\contentsline {section}{\numberline {2.2}Transversal Field's Eigenvalue Equation}{4}{}%
-\contentsline {section}{\numberline {2.3}Electro-Optic Phenomena}{5}{}%
-\contentsline {subsection}{\numberline {2.3.1}Nonlinear Polarization and Index Contraction}{5}{}%
-\contentsline {subsubsection}{Index Contraction}{7}{}%
-\contentsline {subsection}{\numberline {2.3.2}Linear Electro-Optic Effect and Index Ellipsoid}{8}{}%
-\contentsline {section}{\numberline {2.4}Optical Waveguide}{11}{}%
-\contentsline {section}{\numberline {2.5}Coplanar Waveguide}{13}{}%
-\contentsline {section}{\numberline {2.6}Mach Zehnder Electrooptic Modulator Types}{15}{}%
-\contentsline {section}{\numberline {2.7}Electro-Optic Modulator Figure of Merits (FoM)}{17}{}%
-\contentsline {subsection}{\numberline {2.7.1}Half-Wave Voltage ($V_\pi $)}{17}{}%
-\contentsline {subsection}{\numberline {2.7.2}Modulation Bandwidth}{19}{}%
-\contentsline {subsubsection}{Velocity Matching}{21}{}%
-\contentsline {subsubsection}{Impedance Matching}{21}{}%
-\contentsline {subsubsection}{Microwave Losses}{21}{}%
-\contentsline {subsection}{\numberline {2.7.3}Insertion Loss}{22}{}%
-\contentsline {subsection}{\numberline {2.7.4}Extinction Ratio}{22}{}%
-\contentsline {chapter}{\numberline {3}METHODS AND RESULTS}{23}{}%
-\contentsline {subsubsection}{Verification of Simulation}{23}{}%
-\contentsline {subsubsection}{Experimentally Verified $V_\pi $}{25}{}%
-\contentsline {subsubsection}{Parametric Sweep In X-cut Modulator - $V_\pi L $ And Top $SiO_2$ Layer Dependence}{26}{}%
-\contentsline {subsubsection}{Parametric Sweep In X-cut Modulator - $V_\pi L $ And Coplanar Waveguide Gap Dependence}{27}{}%
-\contentsline {subsubsection}{Parametric Sweep In Z-cut Modulator - $V_\pi L$ And Top $SiO_2$ Layer Dependence}{28}{}%
-\contentsline {chapter}{\numberline {4}DISCUSSION}{30}{}%
-\contentsline {subsection}{\numberline {4.0.1}Future Work}{31}{}%
+\contentsline {chapter}{\numberline {2}THEORY}{4}{}%
+\contentsline {section}{\numberline {2.1}Maxwell's Equations}{4}{}%
+\contentsline {section}{\numberline {2.2}Transversal Field's Eigenvalue Equation}{5}{}%
+\contentsline {section}{\numberline {2.3}Electro-Optic Phenomena}{6}{}%
+\contentsline {subsection}{\numberline {2.3.1}Nonlinear Polarization and Index Contraction}{6}{}%
+\contentsline {subsubsection}{Index Contraction}{9}{}%
+\contentsline {subsection}{\numberline {2.3.2}Linear Electro-Optic Effect and Index Ellipsoid}{10}{}%
+\contentsline {section}{\numberline {2.4}Optical Waveguide}{12}{}%
+\contentsline {section}{\numberline {2.5}Coplanar Waveguide}{14}{}%
+\contentsline {section}{\numberline {2.6}Mach Zehnder Electrooptic Modulator Types}{16}{}%
+\contentsline {section}{\numberline {2.7}Electro-Optic Modulator Figure of Merits (FoM)}{18}{}%
+\contentsline {subsection}{\numberline {2.7.1}Half-Wave Voltage ($V_\pi $)}{18}{}%
+\contentsline {subsection}{\numberline {2.7.2}Modulation Bandwidth}{20}{}%
+\contentsline {subsubsection}{Velocity Matching}{22}{}%
+\contentsline {subsubsection}{Impedance Matching}{22}{}%
+\contentsline {subsubsection}{Microwave Losses}{23}{}%
+\contentsline {subsection}{\numberline {2.7.3}Insertion Loss}{23}{}%
+\contentsline {subsection}{\numberline {2.7.4}Extinction Ratio}{23}{}%
+\contentsline {chapter}{\numberline {3}METHODS AND RESULTS}{24}{}%
+\contentsline {section}{\numberline {3.1}2D Microwave Mode Simulations}{24}{}%
+\contentsline {subsubsection}{Microwave Mode Index and Characteristic Impedance Parameter Sweeps For $w_{gap}$ \& $w_{pos}$}{24}{}%
+\contentsline {subsubsection}{Frequency Dependence CPW Parameters And Effects On Modulation Bandwidth}{27}{}%
+\contentsline {subsubsection}{T-Sections}{27}{}%
+\contentsline {chapter}{\numberline {4}DISCUSSION}{28}{}%
+\contentsline {subsection}{\numberline {4.0.1}Future Work}{28}{}%
+\contentsline {chapter}{\numberline {5}APPENDICES}{29}{}%
+\contentsline {subsection}{\numberline {5.0.1}Telegrapher's Equation}{29}{}%
+\contentsline {subsection}{\numberline {5.0.2}Coarse Mesh Problem On Characteristic Impedance Calculation}{30}{}%

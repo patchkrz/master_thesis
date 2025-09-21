@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.1)  3 SEP 2025 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.1)  18 SEP 2025 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -778,7 +778,11 @@ x) (/usr/local/texlive/2025/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
 )
 (/usr/local/texlive/2025/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
-(./main.aux (./methodsAndResults.aux))
+(./main.aux (./methodsAndResults.aux) (./appendices.aux
+
+LaTeX Warning: Label `fig:cpw_field distribution' multiply defined.
+
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -795,8 +799,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
-
-(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count325
 \scratchdimen=\dimen322
@@ -942,7 +945,13 @@ Package pdftex.def Info: Deu.jpg  used on input line 42.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
 [2
 
-] (./main.lot)
+]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 42.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[3] (./main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
@@ -952,19 +961,10 @@ File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
 Package pdftex.def Info: Deu.jpg  used on input line 43.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[3
-
-
-] (./main.lof
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 23.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
 [4
 
 
-])
+] (./main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
@@ -974,16 +974,28 @@ File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
 Package pdftex.def Info: Deu.jpg  used on input line 44.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[5]
+[5
+
+
+]
 Chapter 1.
 
-Overfull \hbox (10.58928pt too wide) in paragraph at lines 56--58
+Overfull \hbox (10.58928pt too wide) in paragraph at lines 58--60
 []\OT1/cmr/m/n/10.95 Electro-optical mod-u-la-tion can be based on dif-fer-ent 
 phe-nom-ena for in-stance quadratic
  []
 
 
-Overfull \hbox (28.64885pt too wide) in paragraph at lines 65--69
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 63.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[1
+
+
+]
+Overfull \hbox (28.64885pt too wide) in paragraph at lines 71--75
  [][] 
  []
 
@@ -991,356 +1003,131 @@ Overfull \hbox (28.64885pt too wide) in paragraph at lines 65--69
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 76.
+Package pdftex.def Info: Deu.jpg  used on input line 101.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[1
-
-
-]
+[2]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 97.
+Package pdftex.def Info: Deu.jpg  used on input line 108.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[2]
+[3]
 Chapter 2.
 
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 134.
+Package pdftex.def Info: Deu.jpg  used on input line 143.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[3
+[4
 
 ]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 181.
+Package pdftex.def Info: Deu.jpg  used on input line 192.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[4]
-<2dWGgeom-2.png, id=57, 453.695pt x 172.645pt>
+[5]
+<2dWGgeom-2.png, id=59, 453.695pt x 172.645pt>
 File: 2dWGgeom-2.png Graphic file (type png)
 <use 2dWGgeom-2.png>
-Package pdftex.def Info: 2dWGgeom-2.png  used on input line 191.
+Package pdftex.def Info: 2dWGgeom-2.png  used on input line 204.
 (pdftex.def)             Requested size: 206.28249pt x 78.49564pt.
 
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 232.
+Package pdftex.def Info: Deu.jpg  used on input line 240.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[5 <./2dWGgeom-2.png>]
+[6 <./2dWGgeom-2.png>]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 281.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[6]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 379.
+Package pdftex.def Info: Deu.jpg  used on input line 279.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
 [7]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 439.
+Package pdftex.def Info: Deu.jpg  used on input line 372.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
 [8]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 499.
+Package pdftex.def Info: Deu.jpg  used on input line 448.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
 [9]
-<indexEllipsoidMethod.png, id=79, 247.92625pt x 121.45375pt>
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 495.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[10]
+<indexEllipsoidMethod.png, id=80, 247.92625pt x 121.45375pt>
 File: indexEllipsoidMethod.png Graphic file (type png)
 <use indexEllipsoidMethod.png>
-Package pdftex.def Info: indexEllipsoidMethod.png  used on input line 508.
+Package pdftex.def Info: indexEllipsoidMethod.png  used on input line 520.
 (pdftex.def)             Requested size: 185.65297pt x 90.94737pt.
-<negativeUniaxialCrystal.png, id=80, 131.49126pt x 137.51375pt>
+<negativeUniaxialCrystal.png, id=81, 131.49126pt x 137.51375pt>
 File: negativeUniaxialCrystal.png Graphic file (type png)
 <use negativeUniaxialCrystal.png>
-Package pdftex.def Info: negativeUniaxialCrystal.png  used on input line 516.
+Package pdftex.def Info: negativeUniaxialCrystal.png  used on input line 528.
 (pdftex.def)             Requested size: 103.14124pt x 107.86879pt.
 
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 550.
+Package pdftex.def Info: Deu.jpg  used on input line 546.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[10 <./indexEllipsoidMethod.png> <./negativeUniaxialCrystal.png>]
+[11 <./indexEllipsoidMethod.png> <./negativeUniaxialCrystal.png>]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 581.
+Package pdftex.def Info: Deu.jpg  used on input line 591.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[11]
-<ion-diffused.png, id=89, 375.4025pt x 275.0275pt>
+[12]
+<ion-diffused.png, id=92, 375.4025pt x 275.0275pt>
 File: ion-diffused.png Graphic file (type png)
 <use ion-diffused.png>
-Package pdftex.def Info: ion-diffused.png  used on input line 586.
+Package pdftex.def Info: ion-diffused.png  used on input line 598.
 (pdftex.def)             Requested size: 165.02347pt x 120.89915pt.
-<monolithic-rid-ridge.png, id=90, 350.30875pt x 299.1175pt>
+<monolithic-rid-ridge.png, id=93, 350.30875pt x 299.1175pt>
 File: monolithic-rid-ridge.png Graphic file (type png)
 <use monolithic-rid-ridge.png>
-Package pdftex.def Info: monolithic-rid-ridge.png  used on input line 594.
+Package pdftex.def Info: monolithic-rid-ridge.png  used on input line 606.
 (pdftex.def)             Requested size: 165.02347pt x 140.90929pt.
 
-Underfull \hbox (badness 1242) in paragraph at lines 595--595
+Underfull \hbox (badness 1242) in paragraph at lines 607--607
 []\OT1/cmr/m/n/10.95 Figure 2.5: |Monolithic-rib-ridge
  []
 
-<modulator-orientation.jpeg, id=91, 1441.385pt x 468.75125pt>
+<modulator-orientation.jpeg, id=94, 1441.385pt x 468.75125pt>
 File: modulator-orientation.jpeg Graphic file (type jpg)
 <use modulator-orientation.jpeg>
-Package pdftex.def Info: modulator-orientation.jpeg  used on input line 604.
+Package pdftex.def Info: modulator-orientation.jpeg  used on input line 616.
 (pdftex.def)             Requested size: 330.05322pt x 107.33128pt.
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 610.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[12 <./ion-diffused.png> <./monolithic-rid-ridge.png> <./modulator-orientation.
-jpeg>]
-<x-cut-LNOI.png, id=98, 1018.80624pt x 460.72125pt>
+<x-cut-LNOI.png, id=95, 1018.80624pt x 460.72125pt>
 File: x-cut-LNOI.png Graphic file (type png)
 <use x-cut-LNOI.png>
-Package pdftex.def Info: x-cut-LNOI.png  used on input line 613.
+Package pdftex.def Info: x-cut-LNOI.png  used on input line 625.
 (pdftex.def)             Requested size: 371.30595pt x 167.9123pt.
-<TL_model.png, id=99, 371.3875pt x 215.80624pt>
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 628.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[13 <./ion-diffused.png> <./monolithic-rid-ridge.png>]
+<TL_model.png, id=101, 371.3875pt x 215.80624pt>
 File: TL_model.png Graphic file (type png)
 <use TL_model.png>
-Package pdftex.def Info: TL_model.png  used on input line 643.
+Package pdftex.def Info: TL_model.png  used on input line 656.
 (pdftex.def)             Requested size: 206.28249pt x 119.86937pt.
 
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 649.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[13 <./x-cut-LNOI.png (PNG copy)> <./TL_model.png>]
-<cpw.png, id=104, 302.12875pt x 180.675pt>
-File: cpw.png Graphic file (type png)
-<use cpw.png>
-Package pdftex.def Info: cpw.png  used on input line 676.
-(pdftex.def)             Requested size: 247.54149pt x 148.03038pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 704.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[14 <./cpw.png>]
-<Screenshot 2025-05-20 at 17.35.40.png, id=109, 427.5975pt x 76.285pt>
-File: Screenshot 2025-05-20 at 17.35.40.png Graphic file (type png)
-<use Screenshot 2025-05-20 at 17.35.40.png>
-Package pdftex.def Info: Screenshot 2025-05-20 at 17.35.40.png  used on input l
-ine 715.
-(pdftex.def)             Requested size: 330.05322pt x 58.8828pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 733.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[15 <./Screenshot 2025-05-20 at 17.35.40.png>]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 783.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[16]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 814.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[17]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 866.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[18]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 896
-.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-)
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 904.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[19]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 934.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[20]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 959.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[21]
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 987.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[22]
-\openout2 = `methodsAndResults.aux'.
-
- (./methodsAndResults.tex
-Chapter 3.
-<x-cut-paper.PNG, id=140, 128.73094pt x 79.04532pt>
-File: x-cut-paper.PNG Graphic file (type png)
-<use x-cut-paper.PNG>
-Package pdftex.def Info: x-cut-paper.PNG  used on input line 23.
-(pdftex.def)             Requested size: 82.51173pt x 50.666pt.
-<z-cut-paper.PNG, id=141, 153.57375pt x 112.92188pt>
-File: z-cut-paper.PNG Graphic file (type png)
-<use z-cut-paper.PNG>
-Package pdftex.def Info: z-cut-paper.PNG  used on input line 23.
-(pdftex.def)             Requested size: 82.51173pt x 60.67018pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 58.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[23
-
-
- <./x-cut-paper.PNG> <./z-cut-paper.PNG>]
-Overfull \hbox (6.27292pt too wide) in paragraph at lines 97--97
-[]\OT1/cmr/m/n/10.95 2.4117V.cm| 
- []
-
-<optical-mesh.png, id=147, 457.71pt x 271.0125pt>
-File: optical-mesh.png Graphic file (type png)
-<use optical-mesh.png>
-Package pdftex.def Info: optical-mesh.png  used on input line 109.
-(pdftex.def)             Requested size: 206.28249pt x 122.14058pt.
-<dc-mesh.png, id=148, 457.71pt x 271.0125pt>
-File: dc-mesh.png Graphic file (type png)
-<use dc-mesh.png>
-Package pdftex.def Info: dc-mesh.png  used on input line 118.
-(pdftex.def)             Requested size: 206.28249pt x 122.14058pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 121.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[24 <./optical-mesh.png (PNG copy)>]
-<girish_transmission_characteristic.PNG, id=153, 400.49625pt x 300.3722pt>
-File: girish_transmission_characteristic.PNG Graphic file (type png)
-<use girish_transmission_characteristic.PNG>
-Package pdftex.def Info: girish_transmission_characteristic.PNG  used on input 
-line 129.
-(pdftex.def)             Requested size: 226.91199pt x 170.18726pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 153.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[25 <./dc-mesh.png (PNG copy)> <./girish_transmission_characteristic.PNG>]
-<overlap_updated_v_piL-top_sio2.png, id=158, 421.575pt x 316.18124pt>
-File: overlap_updated_v_piL-top_sio2.png Graphic file (type png)
-<use overlap_updated_v_piL-top_sio2.png>
-Package pdftex.def Info: overlap_updated_v_piL-top_sio2.png  used on input line
- 156.
-(pdftex.def)             Requested size: 309.42372pt x 232.06958pt.
-<loss_try.PNG, id=159, 628.59843pt x 341.02406pt>
-File: loss_try.PNG Graphic file (type png)
-<use loss_try.PNG>
-Package pdftex.def Info: loss_try.PNG  used on input line 165.
-(pdftex.def)             Requested size: 288.79422pt x 156.67523pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 171.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[26 <./overlap_updated_v_piL-top_sio2.png (PNG copy)> <./loss_try.PNG>]
-<x-cut-tt_sio2 loss.png, id=164, 507.39563pt x 245.41687pt>
-File: x-cut-tt_sio2 loss.png Graphic file (type png)
-<use x-cut-tt_sio2 loss.png>
-Package pdftex.def Info: x-cut-tt_sio2 loss.png  used on input line 174.
-(pdftex.def)             Requested size: 309.42372pt x 149.66661pt.
-<overlap_updated_v_piL_cpw_gap.png, id=165, 421.575pt x 316.18124pt>
-File: overlap_updated_v_piL_cpw_gap.png Graphic file (type png)
-<use overlap_updated_v_piL_cpw_gap.png>
-Package pdftex.def Info: overlap_updated_v_piL_cpw_gap.png  used on input line 
-187.
-(pdftex.def)             Requested size: 301.17065pt x 225.87971pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 192.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[27 <./x-cut-tt_sio2 loss.png (PNG copy)> <./overlap_updated_v_piL_cpw_gap.png 
-(PNG copy)>]
-<xCut Loss vs gap change.png, id=169, 507.39563pt x 245.41687pt>
-File: xCut Loss vs gap change.png Graphic file (type png)
-<use xCut Loss vs gap change.png>
-Package pdftex.def Info: xCut Loss vs gap change.png  used on input line 198.
-(pdftex.def)             Requested size: 309.42372pt x 149.66661pt.
-<overlap_integral_updated_2nd_neff_without voltage selection.png, id=170, 421.5
-75pt x 316.18124pt>
-File: overlap_integral_updated_2nd_neff_without voltage selection.png Graphic f
-ile (type png)
-<use overlap_integral_updated_2nd_neff_without voltage selection.png>
-Package pdftex.def Info: overlap_integral_updated_2nd_neff_without voltage sele
-ction.png  used on input line 209.
-(pdftex.def)             Requested size: 309.42372pt x 232.06958pt.
-
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 214.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[28 <./xCut Loss vs gap change.png (PNG copy)> <./overlap_integral_updated_2nd_
-neff_without voltage selection.png (PNG copy)>]
-<z-cut loss analysis.png, id=174, 507.39563pt x 245.41687pt>
-File: z-cut loss analysis.png Graphic file (type png)
-<use z-cut loss analysis.png>
-Package pdftex.def Info: z-cut loss analysis.png  used on input line 222.
-(pdftex.def)             Requested size: 309.42372pt x 149.66661pt.
-<z-cut confinement issue.png, id=175, 507.39563pt x 245.41687pt>
-File: z-cut confinement issue.png Graphic file (type png)
-<use z-cut confinement issue.png>
-Package pdftex.def Info: z-cut confinement issue.png  used on input line 231.
-(pdftex.def)             Requested size: 309.42372pt x 149.66661pt.
-)
-
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 987.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[29 <./z-cut loss analysis.png (PNG copy)> <./z-cut confinement issue.png (PNG 
-copy)>]
-Chapter 4.
-
-Overfull \hbox (6.84808pt too wide) in paragraph at lines 995--996
-[]\OT1/cmr/m/n/10.95 Firstly, sim-u-la-tion method-ol-ogy is com-pared by analy
-sing already-studied-parameters
- []
-
-<comp_simulations.png, id=179, 421.575pt x 316.18124pt>
-File: comp_simulations.png Graphic file (type png)
-<use comp_simulations.png>
-Package pdftex.def Info: comp_simulations.png  used on input line 1001.
-(pdftex.def)             Requested size: 309.42372pt x 232.06958pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1348,52 +1135,271 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 1014.
+Package pdftex.def Info: Deu.jpg  used on input line 663.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[30
+[14 <./modulator-orientation.jpeg> <./x-cut-LNOI.png (PNG copy)>]
+<cpw.png, id=105, 302.12875pt x 180.675pt>
+File: cpw.png Graphic file (type png)
+<use cpw.png>
+Package pdftex.def Info: cpw.png  used on input line 689.
+(pdftex.def)             Requested size: 247.54149pt x 148.03038pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 704.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[15 <./TL_model.png>]
+<Screenshot 2025-05-20 at 17.35.40.png, id=110, 427.5975pt x 76.285pt>
+File: Screenshot 2025-05-20 at 17.35.40.png Graphic file (type png)
+<use Screenshot 2025-05-20 at 17.35.40.png>
+Package pdftex.def Info: Screenshot 2025-05-20 at 17.35.40.png  used on input l
+ine 709.
+(pdftex.def)             Requested size: 330.05322pt x 58.8828pt.
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 727.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[16 <./cpw.png> <./Screenshot 2025-05-20 at 17.35.40.png>]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 777.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[17]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 808.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[18]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 855.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[19]
+LaTeX Font Info:    Trying to load font information for U+euf on input line 892
+.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 897.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[20]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 928.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[21]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 955.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[22]
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 983.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[23]
+\openout2 = `methodsAndResults.aux'.
+
+ (./methodsAndResults.tex
+Chapter 3.
+<simulation geometry.png, id=143, 596.2275pt x 575.14874pt>
+File: simulation geometry.png Graphic file (type png)
+<use simulation geometry.png>
+Package pdftex.def Info: simulation geometry.png  used on input line 17.
+(pdftex.def)             Requested size: 175.34137pt x 169.14084pt.
+
+Overfull \hbox (20.6295pt too wide) in paragraph at lines 15--42
+[]$[]$ $[]$ 
+ []
+
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 46.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[24
+
+
+ <./simulation geometry.png>]
+<CPW_dynamic_field_distribution_50GHz.png, id=148, 648.17157pt x 358.33875pt>
+File: CPW_dynamic_field_distribution_50GHz.png Graphic file (type png)
+<use CPW_dynamic_field_distribution_50GHz.png>
+Package pdftex.def Info: CPW_dynamic_field_distribution_50GHz.png  used on inpu
+t line 52.
+(pdftex.def)             Requested size: 330.05322pt x 182.47148pt.
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 69.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[25 <./CPW_dynamic_field_distribution_50GHz.png (PNG copy)>]
+<effective index colormap.png, id=152, 597.73312pt x 310.15875pt>
+File: effective index colormap.png Graphic file (type png)
+<use effective index colormap.png>
+Package pdftex.def Info: effective index colormap.png  used on input line 73.
+(pdftex.def)             Requested size: 268.1647pt x 139.14894pt.
+<characteristic impedance colormap.png, id=153, 597.73312pt x 310.15875pt>
+File: characteristic impedance colormap.png Graphic file (type png)
+<use characteristic impedance colormap.png>
+Package pdftex.def Info: characteristic impedance colormap.png  used on input l
+ine 109.
+(pdftex.def)             Requested size: 268.1647pt x 139.14894pt.
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 116.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[26 <./effective index colormap.png (PNG copy)> <./characteristic impedance col
+ormap.png (PNG copy)>]
+Overfull \hbox (0.4543pt too wide) in paragraph at lines 116--116
+[]\OT1/cmr/bx/n/10.95 Frequency De-pen-dence CPW Pa-ram-e-ters And Ef-fects On 
+Mod-u-la-tion Band-
+ []
+
+<Microwave Group Index As A Function Of Frequency.png, id=157, 572.1375pt x 339
+.2675pt>
+File: Microwave Group Index As A Function Of Frequency.png Graphic file (type p
+ng)
+<use Microwave Group Index As A Function Of Frequency.png>
+Package pdftex.def Info: Microwave Group Index As A Function Of Frequency.png  
+used on input line 123.
+(pdftex.def)             Requested size: 206.28249pt x 122.32256pt.
+<characteristic_impedance_vs_frequency_change.png, id=158, 691.8648pt x 416.757
+pt>
+File: characteristic_impedance_vs_frequency_change.png Graphic file (type png)
+<use characteristic_impedance_vs_frequency_change.png>
+Package pdftex.def Info: characteristic_impedance_vs_frequency_change.png  used
+ on input line 130.
+(pdftex.def)             Requested size: 206.28249pt x 124.25224pt.
+
+Underfull \hbox (badness 5847) in paragraph at lines 131--131
+[]\OT1/cmr/m/n/10.95 Figure 3.6: |Char-ac-ter-is-tic impedance
+ []
+
+<modulation_index_vs_freq_15-80ghz_1ghz_step.png, id=159, 826.287pt x 389.2944p
+t>
+File: modulation_index_vs_freq_15-80ghz_1ghz_step.png Graphic file (type png)
+<use modulation_index_vs_freq_15-80ghz_1ghz_step.png>
+Package pdftex.def Info: modulation_index_vs_freq_15-80ghz_1ghz_step.png  used 
+on input line 140.
+(pdftex.def)             Requested size: 371.30595pt x 174.93137pt.
+)
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 983.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[27 <./Microwave Group Index As A Function Of Frequency.png> <./characteristic_
+impedance_vs_frequency_change.png (PNG copy)> <./modulation_index_vs_freq_15-80
+ghz_1ghz_step.png (PNG copy)>]
+Chapter 4.
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 995.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[28
 
 
 
 ]
+\openout2 = `appendices.aux'.
+
+ (./appendices.tex
+Chapter 5.
+
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 75.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[29
+
+
+]
+<Characteristic Impedance With Coarse Mesh_wgap.png, id=170, 450.68375pt x 322.
+20375pt>
+File: Characteristic Impedance With Coarse Mesh_wgap.png Graphic file (type png
+)
+<use Characteristic Impedance With Coarse Mesh_wgap.png>
+Package pdftex.def Info: Characteristic Impedance With Coarse Mesh_wgap.png  us
+ed on input line 86.
+(pdftex.def)             Requested size: 288.79422pt x 206.47517pt.
+<Characteristic Impedance With Coarse Mesh_wpos.png, id=171, 456.70625pt x 258.
+9675pt>
+File: Characteristic Impedance With Coarse Mesh_wpos.png Graphic file (type png
+)
+<use Characteristic Impedance With Coarse Mesh_wpos.png>
+Package pdftex.def Info: Characteristic Impedance With Coarse Mesh_wpos.png  us
+ed on input line 93.
+(pdftex.def)             Requested size: 288.79422pt x 163.7589pt.
+)
+
+File: Deu.jpg Graphic file (type jpg)
+<use Deu.jpg>
+Package pdftex.def Info: Deu.jpg  used on input line 995.
+(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
+[30 <./Characteristic Impedance With Coarse Mesh_wgap.png> <./Characteristic Im
+pedance With Coarse Mesh_wpos.png>]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
 Package pdftex.def Info: Deu.jpg  used on input line 1018.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[31 <./comp_simulations.png (PNG copy)>]
+[31
 
-File: Deu.jpg Graphic file (type jpg)
-<use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 1039.
-(pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[32
+
 
 ]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 1060.
+Package pdftex.def Info: Deu.jpg  used on input line 1039.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[33]
+[32]
 
 File: Deu.jpg Graphic file (type jpg)
 <use Deu.jpg>
-Package pdftex.def Info: Deu.jpg  used on input line 1062.
+Package pdftex.def Info: Deu.jpg  used on input line 1058.
 (pdftex.def)             Requested size: 284.52756pt x 284.54623pt.
-[34] (./main.aux (./methodsAndResults.aux))
+[33] (./main.aux (./methodsAndResults.aux) (./appendices.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 39049 strings out of 473190
- 962609 string characters out of 5715801
- 1599382 words of memory out of 5000000
- 61833 multiletter control sequences out of 15000+600000
- 578184 words of font info for 113 fonts, out of 8000000 for 9000
+ 39047 strings out of 473190
+ 963100 string characters out of 5715801
+ 1603718 words of memory out of 5000000
+ 61823 multiletter control sequences out of 15000+600000
+ 578892 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,105p,1173b,1250s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,105p,1173b,1246s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
@@ -1416,10 +1422,10 @@ ve/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2025/texmf-dist/fonts/type1/public/esint-type1/esint10.pfb></usr/local/texlive
 /2025/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb>
-Output written on main.pdf (41 pages, 1366674 bytes).
+Output written on main.pdf (40 pages, 1302875 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 281 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 143 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 

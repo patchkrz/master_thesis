@@ -1,0 +1,76 @@
+\chapter{APPENDICES}
+
+\subsection{Telegrapher's Equation}
+
+	\begin{figure}[h]
+        \centering
+        \begin{circuitikz}
+            \draw (0,0) to [american resistor = $R\Delta z$ ] (2,0); 
+            \draw (2,0) to [american inductor = $L\Delta z$] (4,0);
+            \draw (4,0) to [capacitor = $C\Delta z$ ] (4,-2);
+            \draw (6,0) to [resistor = $G\Delta z$ ] (6,-2);
+            \node[anchor=east] at (0,0) {\small +};
+            \node[anchor=west] at (8,0) {\small +};
+            \node[anchor=center] at (0,-1) {\small V(z{,}t)};	
+            \node[anchor=west] at (8,-1) {\small V(z$+\Delta$ z{,}t)};
+            \node[anchor=east] at (0,-2) {\small -};
+            \node[anchor=west] at (8,-2) {\small -};	 
+            \draw (6,0) to [short] (8,0);
+            \draw (4,0) to [short] (6,0);
+            \draw (0,-2) to [short] (8,-2);
+        \end{circuitikz}
+        \caption{Unit length model of a general transmission line}
+        \label{fig:lumped_model_of_transmission_line}
+    \end{figure}
+
+	\begin{equation}
+		v(z,t) - R' \Delta z \, i(z,t) - L' \Delta z \, \frac{\partial i(z,t)}{\partial t} - v(z+\Delta z, t) = 0.
+	\end{equation}
+	
+	\begin{equation}
+		- \left[ \frac{v(z+\Delta z, t) - v(z,t)}{\Delta z} \right] = R' i(z,t) + L' \frac{\partial i(z,t)}{\partial t}.
+	\end{equation}
+	
+	
+	\begin{equation}
+	- \frac{\partial v(z,t)}{\partial z} 
+= R' i(z,t) + L' \frac{\partial i(z,t)}{\partial t}.
+	\end{equation}
+	
+	\begin{equation}
+	- \frac{\partial v(z,t)}{\partial z} 
+= R' i(z,t) + L' \frac{\partial i(z,t)}{\partial t}.
+	\end{equation}
+	
+	\begin{equation}
+i(z,t) - G' \Delta z \, v(z+\Delta z, t) 
+- C' \Delta z \, \frac{\partial v(z+\Delta z, t)}{\partial t} 
+- i(z+\Delta z, t) = 0.
+	\end{equation}
+	
+	\begin{equation}
+- \frac{\partial i(z,t)}{\partial z} 
+= G' v(z,t) + C' \frac{\partial v(z,t)}{\partial t}.
+	\end{equation}
+	
+	\begin{equation}
+v(z,t) = \Re \big[ \tilde{V}(z) e^{j\omega t} \big], \qquad
+i(z,t) = \Re \big[ \tilde{I}(z) e^{j\omega t} \big],
+	\end{equation}
+
+	\begin{equation}
+- \frac{d \tilde{V}(z)}{dz} = \big(R' + j \omega L'\big)\, \tilde{I}(z),
+\qquad
+- \frac{d \tilde{I}(z)}{dz} = \big(G' + j \omega C'\big)\, \tilde{V}(z).
+	\end{equation}
+
+	\begin{equation}
+\frac{d^{2} \tilde{V}(z)}{dz^{2}} - \gamma^{2} \tilde{V}(z) = 0,
+\qquad \text{(wave equation for $\tilde{V}(z)$)} 
+	\end{equation}
+	
+	\begin{equation}
+\frac{d^{2} \tilde{I}(z)}{dz^{2}} - \gamma^{2} \tilde{I}(z) = 0,
+\qquad \text{(wave equation for $\tilde{I}(z)$)}
+	\end{equation}
+	

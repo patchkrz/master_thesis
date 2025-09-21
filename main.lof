@@ -1,28 +1,26 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Conceptual waveguide structure}}{5}{}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Index ellipsoid method. The inner ellipse is the intersection of the index ellipsoid with the plane that is normal to $\mathbf {s}$ and passes through the center of the ellipsoid \cite {2}}}{10}{}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Negative uniaxial crystal normal surfaces, $n_o$ is in z-direction and $n_e$ is in x direction \cite {2} }}{10}{}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Overlap area in ion diffused LN waveguide is more than 10 times larger with respect to monolithic-rib-ridge waveguide on the right \cite {1}.}}{12}{}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Monolithic-rib-ridge waveguide consists of oxide layer and a substrate in addition to LN \cite {1}.}}{12}{}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Cut direction in fabrication process determines modulator geometry\cite {16} (the same directional reference applies also thin-film waveguides)}}{12}{}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Electrodes are placed depending on crystal-cut so that overlap of fields achieved. X-cut LN is on the left and Z-cut LN is on the right }}{13}{}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Generic microwave transmission line}}{13}{}%
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Geometry of coplanar waveguide \cite {12}}}{14}{}%
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Unit length of coplanar waveguide}}{15}{}%
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Phase modulator is seen on the left and MZI intensity modulator with upper and lower arms is on the right\cite {1}}}{15}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Conceptual waveguide structure}}{6}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Index ellipsoid method. The inner ellipse is the intersection of the index ellipsoid with the plane that is normal to $\mathbf {s}$ and passes through the center of the ellipsoid \cite {2}}}{11}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Negative uniaxial crystal normal surfaces, $n_o$ is in z-direction and $n_e$ is in x direction \cite {2} }}{11}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Overlap area in ion diffused LN waveguide is more than 10 times larger with respect to monolithic-rib-ridge waveguide on the right \cite {1}.}}{13}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Monolithic-rib-ridge waveguide consists of oxide layer and a substrate in addition to LN \cite {1}.}}{13}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Cut direction in fabrication process determines modulator geometry\cite {16} (the same directional reference applies also thin-film waveguides)}}{14}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Electrodes are placed depending on crystal-cut so that overlap of fields achieved. X-cut LN is on the left and Z-cut LN is on the right }}{14}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Generic microwave transmission line}}{15}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Geometry of coplanar waveguide \cite {12}}}{16}{}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Phase modulator is seen on the left and MZI intensity modulator with upper and lower arms is on the right\cite {1}}}{16}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Optical mesh which COMSOL \textit {EM Wave Frequency Domain (ewfd)} generates}}{24}{}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces DC mesh which COMSOL \textit {Electrostatic (es)} generates}}{25}{}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Transmission characteristic of sample modulator with length of 0.920cm. Red dots represents experimental data which is sampled by oscilloscope.}}{25}{}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces In x-cut EO MZM, top layer silica has changed and reduced }}{26}{}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Plasmonic behavior in metal-LN interface. Silica layer is removed in this case.}}{26}{}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces In x-cut EO MZM, top layer silica (x-axis) has parametrically changed and corresponding loss values are observed.}}{27}{}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces In x-cut EO MZM, gap between microwave electrodes has parametrically swept.}}{27}{}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces In x-cut EO MZM, change of gap and its effect on optical loss is seen. Vertical scale is logarithmic.}}{28}{}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces In z-cut EO MZM, change of top silica layer and $V_\pi L$ value relation is seen.}}{28}{}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces In z-cut EO MZM, change of top silica layer has strong impact on optical loss}}{29}{}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Due to severe loss, optical mode does not confine in z-cut modulator}}{29}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Simulated Geometry}}{24}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Microwave field distribution in the CPW slot at 50GHz}}{25}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Microwave mode index change color map based on $w_{gap}$ and $w_{pos}$ }}{26}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Characteristic impedance change color map based on $w_{gap}$ and $w_{pos}$ }}{26}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Microwave group index change depending on frequency}}{27}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Characteristic impedance change depending on frequency}}{27}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Modulation index of the modulator geometry given in Figure \ref {fig:microwave2D_wang-et-al}. Calculation is based on the formula as in Equation (\ref {eq:eo-response})}}{27}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces $V_\pi L$ values are compared for different modulators.}}{31}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Unit length model of a general transmission line}}{29}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Microwave field distribution in the CPW slot at 50GHz}}{30}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Microwave field distribution in the CPW slot at 50GHz}}{30}{}%
